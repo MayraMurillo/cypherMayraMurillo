@@ -7,4 +7,3 @@ En el Ministerio Publico existen equipos especiales que están investigando gran
 En este contexto se ha creado una aplicación web que permitira a equipos de fiscales y jueces compartir información confidencial de los casos investigados con un riesgo nulo de filtración de la información. Su uso es bastante sencillo ya que unicamente se tiene que ingresar un usuario y contraseña para luego acceder a la pagina que permita el cifrado o descifrado del mensaje.
 
 
-https://github.com/MayraMurillo/cypherMayraMurillo/blob/master/Boceto1.jpg
